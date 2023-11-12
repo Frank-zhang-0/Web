@@ -1,0 +1,15 @@
+header, footer, nav, main, aside {
+    display: block;
+}
+
+aside {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div {
+    width: fit-content;
+    height: fit-content;
+}
